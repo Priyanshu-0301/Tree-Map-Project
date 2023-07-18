@@ -1,4 +1,4 @@
-# PRakriti Tree Map
+# Prakriti Tree Map
 
 ## Objective
 • Build a search engine that enables users to search for specific tree types and their respective locations in the campus
